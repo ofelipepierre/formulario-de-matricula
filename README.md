@@ -3,7 +3,7 @@
 ![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 ![Tecnologias](https://img.shields.io/badge/Stack-HTML5%20%2F%20CSS3-blue)
 
-Este projeto é um **formulário de matrícula** moderno e funcional desenvolvido para a "School of Rock". O foco principal foi a criação de uma interface limpa, utilizando semântica HTML e uma arquitetura CSS modular para garantir facilidade de manutenção e escalabilidade.
+Este projeto é um **formulário de matrícula** moderno e funcional desenvolvido para a "Escola Estrelas do Amanhã". O foco principal foi a criação de uma interface limpa, utilizando semântica HTML e uma arquitetura CSS modular para garantir facilidade de manutenção e escalabilidade.
 
 ---
 
